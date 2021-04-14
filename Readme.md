@@ -9,7 +9,7 @@ La tarea está hecha en ```ruby 2.6.5p114```. Esta tarea ocupa los modulos de ``
 
 El archvio out.html es un ejemplo del output esperado. A continuación un ejemplo de como se ve.
 
-![alt text](./Tabla.png?raw=true "Table")
+![alt text](./Tabla.PNG?raw=true "Table")
 
 
 
