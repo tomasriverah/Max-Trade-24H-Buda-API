@@ -7,7 +7,12 @@ La idea general del programa, es obtener primero los id de mercado. Posteriormen
 
 La tarea está hecha en ```ruby 2.6.5p114```. Esta tarea ocupa los modulos de ```rails``` 5.2.4.4, ```rest-client``` 2.0.2-3.1, y ```json```.
 
-El archvio out.html es un ejemplo del output esperado.
+El archvio out.html es un ejemplo del output esperado. A continuación un ejemplo de como se ve.
+
+![alt text](Tabla.png "Table")
+
+
+
 
 Espero puedas correr los script sin inconvenientes.
 
